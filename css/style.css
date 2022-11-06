@@ -22,7 +22,7 @@ a {
 }
 body {
    height: 100vh;
-   color: var(--textColor);
+   background-color: var(--textColor);
 }
 #side-nav {
     width: 300px;
