@@ -1,1 +1,1 @@
-# side-bar
+![side-bar](images/sideBar.jpg)
